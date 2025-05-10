@@ -22,3 +22,9 @@
 - HTML,CSS
 - Microsoft Azure (Azurite)
 - MS SQL
+<p align="center"> <a> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="80" height="40"/> </a>
+<a> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/> </a>
+<a> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="40" height="40"/> </a>
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="40" height="40"/> </a>
+<a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/> </a>
+</p>
